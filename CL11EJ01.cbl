@@ -1,7 +1,7 @@
       ******************************************************************
-      * Author: EMILIANO TOMASI
+      * Author: GABRIELA RODRIGUEZ
       * Date: 07/09/2023
-      * Purpose: CLASE 11 - EJERCICIO 1
+      * Purpose: CORTE DE CONTROL SIMPLE
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
